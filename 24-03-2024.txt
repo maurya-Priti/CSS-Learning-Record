@@ -10,3 +10,5 @@ Static
 Relative
 Absolute
 Fixed
+
+Z-index
