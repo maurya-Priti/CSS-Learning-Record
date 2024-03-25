@@ -1,5 +1,6 @@
 Happy Holi Day
 
+Responsive web pages
 FlexBox, Grids and Media queries
 
 Float property:
@@ -35,3 +36,13 @@ wrap-reverse
 align-items and justify-contents
 align-items- alignment across cross axis (vertically)
 justify-content- alignment across main axis (horizontally)/row or left to right alignment
+
+All Above properties were used with container element
+
+To align individual flex items
+used with elements inside container i.e flex items
+align-se
+
+flex-shrink
+flex-grow
+order - override order of elements in which they appear
