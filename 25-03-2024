@@ -8,4 +8,30 @@ right
 none
 
 FlexBox
-It is one dimensional property----arrange items in rows <b> or columns
+It is one dimensional property----arrange items in rows or columns
+arrange either horizontally or verticaly
+
+arrangement is done based on axis
+Horizontal axis: left to right (main-axis)
+Vertical axis:Top to bottom (cross-axis) axis perpendicular to main axis
+
+Here elements are typically placed inside a container element in which elements are to be arranged.
+(usually a div with id as 'container')
+
+to use flexbox :
+display:flex
+
+flex-direction property:
+row
+row-reverse
+column
+column-reverse
+
+flex-wrap:
+wrap 
+nowrap
+wrap-reverse
+
+align-items and justify-contents
+align-items- alignment across cross axis (vertically)
+justify-content- alignment across main axis (horizontally)/row or left to right alignment
