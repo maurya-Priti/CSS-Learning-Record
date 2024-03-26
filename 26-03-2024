@@ -6,5 +6,30 @@ Animation, Transition and Transform
     
 
 2. Transitions
+    enable smooth changes between the animates states
+    initial and final state is specied by us, and middle states are automatically calculated and displayed
+        transition property
+        transition-duration
+        transition-timing-function: multiple functions available.. refer MDN
+        transition-delay:
+
 3. CSS Transform
+        modification of elements shape and posotion
+        ex. rotate, scale,skew and so on
+        use transform property and its value as functions
+        ex. transform:rotate(45deg) 
+
+Transformation can be done on different axis
 4. Animation
+
+syntax 
+@keyframes animation_name{
+
+from{
+CSS rules
+}
+
+to{
+CSS rules
+}
+}
