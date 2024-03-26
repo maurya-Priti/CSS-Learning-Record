@@ -28,8 +28,27 @@ syntax
 from{
 CSS rules
 }
-
 to{
 CSS rules
 }
 }
+
+Above to AN from can be defined in terms of %
+ex.:
+@keyframes animation_name{
+0%{ CSS CODE}
+50%{ CSS CODE}
+100%{ CSS CODE}
+
+}
+
+Animation properties{
+
+animation-name:
+animation-duration
+animation-timimg-function
+animation-delay
+animation-iteration-count
+animation-direction
+}
+
