@@ -50,3 +50,12 @@ order - override order of elements in which they appear
 
 GRIDS
 multi dimensional layout
+
+
+Media Queries
+Syntax:
+@media (media_Type) and (condition){
+Css Rules
+Here condition is mainly based on width of the screen as web page is vertically scrollable 
+
+}
