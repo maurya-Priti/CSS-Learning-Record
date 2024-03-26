@@ -1,6 +1,10 @@
 Animation, Transition and Transform
 
 1. Psuedo Classes
+    -To style HTML elements in special states
+     ex. hover, active, visited and so on
+    
+
 2. Transitions
 3. CSS Transform
 4. Animation
